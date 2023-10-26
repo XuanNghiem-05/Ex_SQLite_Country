@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex_SQLite_Country</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_update">Update</string>
+    <string name="enter_title">Name Country</string>
+    <string name="enter_desc">Currency</string>
+    <string name="add_record">Add Record</string>
+    <string name="empty_list_text">No record found</string>
+</resources>
